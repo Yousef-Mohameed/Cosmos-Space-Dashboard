@@ -52,7 +52,7 @@ var defaultApodData = {
                   (Caldwell 50) is closely associated with the nebulosity, the
                   stars of the cluster having been formed from the nebula's
                   matter.`,
-    url: "./assets/images/placeholder.webp",
+    url: "./images/placeholder.webp",
     media_type: "image",
     title: "The Rosette Nebula",
 };
